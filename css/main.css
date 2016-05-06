@@ -1,0 +1,23 @@
+.box{
+	background-color: #e7e5e5;
+}
+form{
+	margin-top: 3%;
+}
+hr{
+	margin-top: 5%;
+	color:  #e7e5e5;
+}
+button{
+	margin-top: 3%;
+}
+li{
+	background-color: #e7e5e5;
+	padding: 5px;
+	list-style: none;
+	margin-top: 10px;
+}
+#scroll{
+  	overflow-y: scroll;
+  	height: 250px;
+}
